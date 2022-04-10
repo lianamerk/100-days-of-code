@@ -8,3 +8,5 @@ The log of my #100DaysOfCode challenge. Started on [April 9, Saturday, 2022].
 Today, I spent a couple of hours reading about web frameworks and deciding if I want to try learn d3 or deploy my visualization on a python server. 
 
 ### R1D2
+Kept reading about how to make things interactive on the web. Potentially bokeh might be enough for the visualization I want, but if I'm going to sink time into learning JS maybe it;d be best to make it d3 anyway...
+
