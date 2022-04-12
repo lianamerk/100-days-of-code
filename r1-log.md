@@ -13,4 +13,7 @@ Kept reading about how to make things interactive on the web. Potentially bokeh 
 ### R1D3
 Made a working bokeh JS map with selector dropdown.
 
+### R1D4
+More bokeh JS hacking.
+
 
