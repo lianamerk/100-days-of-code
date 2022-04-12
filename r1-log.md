@@ -10,3 +10,7 @@ Today, I spent a couple of hours reading about web frameworks and deciding if I 
 ### R1D2
 Kept reading about how to make things interactive on the web. Potentially bokeh might be enough for the visualization I want, but if I'm going to sink time into learning JS maybe it;d be best to make it d3 anyway...
 
+### R1D3
+Made a working bokeh JS map with selector dropdown.
+
+
