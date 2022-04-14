@@ -19,3 +19,7 @@ More bokeh JS hacking.
 ### R1D5
 Met with Milo to talk about data viz tool and path forward.
 
+### R1D6
+Html and css reading
+
+
