@@ -16,4 +16,6 @@ Made a working bokeh JS map with selector dropdown.
 ### R1D4
 More bokeh JS hacking.
 
+### R1D5
+Met with Milo to talk about data viz tool and path forward.
 
